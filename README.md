@@ -8,7 +8,7 @@ Email Me 👉 ✉️ **deepak0422v@gmail.com** For Collaboration/Project or Anyt
 - 👯 **I’m looking to collaborate on:** Innovative AI projects, impactful web applications, and real-world problem-solving tech ideas.
 - 🤔 **I’m looking for help with:** Scaling projects to production level and improving system design skills.
 - 💬 **Ask me about:** Java, DSA, AI, ML, DL, GEN AI, AGENTIC AI
-- 📫 **How to reach me:** deepak0422v@gmail.com, Linkedin
+- 📫 **How to reach me:** deepak0422v@gmail.com, Linkedin: www.linkedin.com/in/deepak0422 
 - 😄 **Pronouns:** Deepak
 - ⚡ **Fun fact:** I love turning ideas into real working products and challenging myself with complex problems.
 
