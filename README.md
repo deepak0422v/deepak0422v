@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Parasa Deepak Kumar
-**AI/ML Enthusiast || Java Developer || Kafka Admin from India**
+**AI/ML Enthusiast || Java Developer**
 
 Email Me 👉 ✉️ **deepak0422v@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
