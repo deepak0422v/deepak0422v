@@ -51,12 +51,15 @@ Email Me 👉 ✉️ **deepak0422v@gmail.com** For Collaboration/Project or Anyt
     <img src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="LeetCode 50 Day Streak Badge" height="100" width="100" />
   </a>
   <a href="https://leetcode.com/u/deepak0422v" target="_blank">
-    <img src="https://assets.leetcode.com/static_assets/others/25100.gif" alt="LeetCode August Challenge" height="100" width="100" />
+    <img src="C:\Users\HP\Downloads\download (1).gif" alt="LeetCode August Challenge" height="100" width="100" />
   </a>
   <a href="https://leetcode.com/u/deepak0422v" target="_blank">
-    <img src="https://assets.leetcode.com/static_assets/others/25100.gif" alt="LeetCode September Challenge" height="100" width="100" />
+    <img src="" alt="LeetCode September Challenge" height="100" width="100" />
   </a>
 </div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
